@@ -1,7 +1,9 @@
-.brand-logo {
-  font-family: 'Style Script', cursive;
-}
+@media screen and (device-width: 360px) and (device-height: 640px) and (-webkit-device-pixel-ratio: 3) {
 
-.header {
-  font-family: 'Style Script', cursive;
+  .brand-logo {
+    font-family: 'Style Script', cursive;
+  }
+  .header {
+    font-family: 'Style Script', cursive;
+  }
 }
